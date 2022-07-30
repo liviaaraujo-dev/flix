@@ -11,5 +11,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - React JS
 
+## Run Locally
+
+~~~bash
+npm run dev
+~~~
+
 
 ![GitHub Logo](src/assets/images/print.png)
