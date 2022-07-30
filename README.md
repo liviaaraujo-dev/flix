@@ -9,8 +9,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - SASS
 - JavaScript
-- React JS
-<br>
+- React JS<br>
 ## Run Locally
 
 ~~~bash
