@@ -10,11 +10,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - SASS
 - JavaScript
 - React JS
-
+<br>
 ## Run Locally
 
 ~~~bash
-npm run dev
+$ npm run dev
 ~~~
 
 
