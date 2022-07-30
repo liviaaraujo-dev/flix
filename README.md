@@ -1,5 +1,5 @@
 # Flix
-O flix é um projeto que exibir um filme aleatório, por meio dos dados fornecidos pela API do themoviedb.org<br>
+O flix é um projeto que exibir um filme aleatório, por meio dos dados fornecidos pela API do themoviedb.org<br><br>
 
 ## Tecnologias
 
