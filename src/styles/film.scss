@@ -1,0 +1,51 @@
+@import './global.scss';
+
+#film{
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    color: $title;
+    margin-bottom: -8rem;
+
+    img{
+        width: 30%;
+        height: 60%;
+    }
+
+    div{
+        text-align: left;
+        margin-left: 1.5rem;
+
+        h3{
+            font-size: 1.30rem;
+            font-weight: 700;
+        }
+
+        .description{
+            font-weight: 300;
+            font-size: 1rem;
+        }
+    }
+}
+
+
+@media (max-width: 450px) {
+    #film{
+        flex-direction: column;
+        margin-bottom: -1rem;
+        align-items: center;
+
+        img{
+            width: 50%;
+        }
+
+        div{
+            text-align: center;
+            margin-left: 0;
+
+            h3{
+                margin-top: 1.5rem;
+            }
+        }
+    }
+}
+
