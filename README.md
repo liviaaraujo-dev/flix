@@ -2,7 +2,7 @@
 O flix é um projeto que exibir um filme aleatório, por meio dos dados fornecidos pela API do themoviedb.org<br><br>
 
 ## Deploy no Netify
-<https://aquamarine-froyo-04a418.netlify.app/>
+<https://flix-liviaaraujo.netlify.app/>
 <br>
 
 ## Tecnologias
